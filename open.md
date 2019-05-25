@@ -4,4 +4,4 @@ title: TOKI OSN Open Contest 2019 (English)
 key: open
 ---
 
-TBA
+To Be Announced
