@@ -70,16 +70,15 @@ Perbedaan dengan [Peraturan Kompetisi OSN Informatika 2018](https://osn2018.toki
 ### D. Penilaian Peserta
 
 1. <span style="color:red">~~Nilai peserta pada suatu soal merupakan **nilai terbesar** dari seluruh pengumpulan peserta pada soal tersebut~~</span>.
-1. <span style="color:red">Pada penilaian standar:</span>
-   1. <span style="color:red">Untuk soal bertipe *batch* dan *interactive*:</span>
-      1. <span style="color:red">Nilai akhir pada suatu subsoal adalah **nilai maksimum** subsoal tersebut di antara seluruh pengumpulan.</span>
-      1. <span style="color:red">Nilai peserta pada suatu soal merupakan jumlah nilai akhir seluruh subsoalnya.</span>
+1. <span style="color:red">Pada soal bertipe *batch* dan *interactive*:</span>
+   1. <span style="color:red">Pada penilaian kreatif, untuk setiap pengumpulan, nilai pada suatu subsoal adalah nilai minimum di antara seluruh kasus uji yang dicakup pada subsoal tersebut.
+   1. <span style="color:red">Nilai akhir pada suatu subsoal adalah **nilai maksimum** subsoal tersebut di antara seluruh pengumpulan.</span>
+   1. <span style="color:red">Nilai peserta pada suatu soal merupakan jumlah nilai akhir seluruh subsoalnya.</span>
 
-      <span style="color:red">Sebagai contoh, jika pengumpulan pertama mendapatkan nilai 30 pada subsoal pertama dan nilai 0 pada subsoal kedua, dan pengumpulan kedua mendapatkan nilai 0 pada subsoal pertama dan nilai 40 pada subsoal kedua, maka nilai peserta pada soal ini adalah 70.</span>
-   1. <span style="color:red">Untuk soal bertipe *output-only*</span>:
-      1. <span style="color:red">Nilai akhir pada suatu kasus uji adalah **nilai maksimum** kasus uji tersebut di antara seluruh pengumpulan.</span>
-      1. <span style="color:red">Nilai peserta pada suatu soal merupakan jumlah nilai akhir seluruh kasus ujinya.</span>
-1. <span style="color:red">Pada penilaian kreatif, nilai peserta pada suatu soal akan dinyatakan secara eksplisit pada soal.</span>
+   <span style="color:red">Sebagai contoh, jika pengumpulan pertama mendapatkan nilai 30 pada subsoal pertama dan nilai 0 pada subsoal kedua, dan pengumpulan kedua mendapatkan nilai 0 pada subsoal pertama dan nilai 40 pada subsoal kedua, maka nilai peserta pada soal ini adalah 70.</span>
+1. <span style="color:red">Pada soal bertipe *output-only*</span>:
+   1. <span style="color:red">Nilai akhir pada suatu kasus uji adalah **nilai maksimum** kasus uji tersebut di antara seluruh pengumpulan.</span>
+   1. <span style="color:red">Nilai peserta pada suatu soal merupakan jumlah nilai akhir seluruh kasus ujinya.</span>
 1. Total nilai peserta adalah total nilai yang didapatkan pada **seluruh soal** pada **seluruh hari kompetisi**.
 1. Peserta akan diurutkan peringkat berdasarkan total nilai (semakin besar, semakin bagus).
 1. Dua peserta yang memiliki total nilai yang **sama** akan mendapat peringkat yang **sama**.
