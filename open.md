@@ -9,7 +9,7 @@ key: open
 - **TOKI OSN Open Contest 2019** is an open competition mirroring the National Science Olympiad in Informatics 2019 in Indonesia (**OSN Informatika 2019** in Bahasa).
 - OSN Informatika is a national olympiad in informatics for high school students. It is the one of the stages required for Indonesian students to represent Indonesia in IOI (International Olympiad in Informatics)
 - The problemset is the same as the problemset in OSN Informatika 2019, and will be given in Bahasa Indonesia and English.
-- The contest will be held on [TLX (TOKI Online Judge)](https://tlx.toki.id/competition) (you may need to register for a TLX account if you do not have one already).
+- The contest will be held on [TLX (TOKI Online Judge)](https://tlx.toki.id/contests) (you may need to register for a TLX account if you do not have one already).
 - If you have any questions please contact [sc-osn-2019@googlegroups.com](mailto:sc-osn-2019@googlegroups.com).
 
 <br>
