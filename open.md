@@ -16,10 +16,11 @@ key: open
 
 ### Rules Overview
 
-* There will be one trial session and 2 (two) competition days.
-* There will be 3 (three) problems on each day to be solved in 5 (five) hours.
-* Each contestant may submit up to 50 solutions for each problem.
-* The supported programming languages are C, C++, and Pascal.
+* There will be **one trial session** and **2 (two) competition days**.
+* Result of trial session does **not** affect scoring.
+* There will be **3 (three) problems** on each day to be solved in **5 (five) hours**.
+* Each contestant may submit up to **50 submissions** for each problem.
+* The supported programming languages are **C, C++, and Pascal**.
 * During the competition, each contestant can only see their own scores.
 
 <br>
@@ -91,11 +92,11 @@ key: open
 
 * For batch and interactive problems:
   * On creative scoring, for each submission, score of a subtask is the minimum score among all its test cases.
-  * A subtask final score is maximum score of its score among all submissions.
+  * A subtask final score is **maximum of its score** among all submissions.
   * Contestant's score on a problem is the sum of all its subtasks final score.
   For example, if the first submission got 30 on first subtask and 0 on second subtask, and second submission got 0 on first subtask and 40 on second subtask, then the contestant's score on the problem is 70.
 * For output-only problems:
-  * A test case final score is the maximum of its score among all submissions.
+  * A test case final score is the **maximum of its score** among all submissions.
   * Contestant's score on a problem is the sum of all its test cases final score.
 * A contestant's total score is sum of **all of problems score** on **both days**.
 * Contestants will be ranked by total score (descending).
