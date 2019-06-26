@@ -24,7 +24,7 @@ key: terbuka
 - Secara umum, teknis sesuai dengan yang tercantum pada halaman [Peraturan Kompetisi](peraturan.html).
 - Kontes dibuka dalam rentang waktu sebagai berikut.
   * **Hari 0**: 1 Juli 2019 15:35 WIB - 2 Juli 2019 06:05 WIB
-    (sesi latihan, tidak mempengaruhi nilai akhir.)
+    (sesi latihan, **tidak** mempengaruhi nilai akhir.)
   * **Hari 1**: 2 Juli 2019 09:35 WIB - 3 Juli 2019 06:05 WIB
   * **Hari 2**: 3 Juli 2019 09:35 WIB - 4 Juli 2019 06:05 WIB
 
@@ -41,7 +41,7 @@ key: terbuka
 Peserta kontes terbuka terbagi atas 4 (empat) kategori:
 
 - **Alumni**, yaitu siapapun yang pernah mengikuti Pelatnas TOKI.
-- **Siswa**, yaitu seluruh pelajar berkewarganegaraan Indonesia yang statusnya masih siswa SD - SMA di Indonesia, tidak menjadi peserta OSN komputer 2019, dan tidak termasuk kategori Alumni.
+- **Siswa**, yaitu seluruh pelajar berkewarganegaraan Indonesia yang statusnya masih siswa SD - SMA di Indonesia, tidak menjadi peserta OSN Informatika 2019, dan tidak termasuk kategori Alumni.
 - **Umum**, yaitu siapapun yang berkewarganegaraan Indonesia dan tidak termasuk semua kategori di atas.
 - **Internasional**, yaitu siapapun yang berkewarganegaraan asing.
 
