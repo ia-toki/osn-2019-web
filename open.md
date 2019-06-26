@@ -94,6 +94,7 @@ key: open
   * On creative scoring, for each submission, the score of a subtask is the minimum score among all its test cases.
   * A subtask final score is the **maximum of its score** among all submissions.
   * Contestant's score for a problem is the sum of all its subtasks final score.
+
   For example, if the first submission got 30 points for the first subtask and 0 points for the second subtask, and the second submission got 0 points for the first subtask and 40 points for the second subtask, then the contestant's score for the problem is 70 points.
 * For output-only problems:
   * A test case final score is the **maximum of its score** among all submissions.
