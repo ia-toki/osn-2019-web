@@ -2,8 +2,19 @@
   <div class="menubar__content">
     <div class="pt-tabs">
       <ul class="pt-tab-list" role="tablist">
-        <li class="pt-tab" role="tab" aria-selected="true">
-            <a href="/">Beranda</a>
+        <li
+          class="pt-tab"
+          role="tab"
+          aria-selected="{% if page.key == 'results' %}false{% else %}true{% endif %}"
+        >
+          <a href="/">Beranda</a>
+        </li>
+        <li
+          class="pt-tab"
+          role="tab"
+          aria-selected="{% if page.key == 'results' %}true{% else %}false{% endif %}"
+        >
+          <a href="/hasil.html">Hasil Sementara</a>
         </li>
       </ul>
     </div>
