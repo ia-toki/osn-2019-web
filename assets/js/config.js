@@ -1,6 +1,6 @@
 var config = {
   serverUrl:
-    "https://scoreboard.toki.id/serve?contestJid=JIDCONTnIIqZH9uKCcY0GVDjfhp",
+    "https://scoreboard.toki.id/serve?contestJid=JIDCONTYrg7Rw3ZhNpOkUfhx6Eq",
   refreshIntervalInMs: 5000,
   contestants: {
     JIDUSERA4RKQgQZswM9EArLzzqK: {
