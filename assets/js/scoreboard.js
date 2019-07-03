@@ -3,7 +3,6 @@ var currentProblemCount = 0;
 function fetchScoreboard() {
   $.get(config.serverUrl, function(data) {
     refreshScoreboard(data);
-    setTimeout(fetchScoreboard, config.refreshIntervalInMs);
   });
 }
 
